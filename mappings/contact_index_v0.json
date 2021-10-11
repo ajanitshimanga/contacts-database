@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "properties": {
+      "uuid": {"type": "keyword"},
+      "first_name": {"type": "keyword"},
+      "last_name": {"type": "keyword"},
+      "phone_number": {"type": "numeric"}
+    }
+  }
+}
